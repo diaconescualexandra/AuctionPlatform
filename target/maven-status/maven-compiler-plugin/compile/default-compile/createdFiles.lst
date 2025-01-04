@@ -1,0 +1,13 @@
+Model\Jewelry.class
+Model\Artwork.class
+Model\Automobile.class
+Model\Photos.class
+Model\Art.class
+Model\User.class
+Model\Bid.class
+Model\Motorcycle.class
+Runner\AuctionRunner.class
+Model\Auction.class
+Service\AuctionService.class
+Model\Car.class
+Model\Item.class
